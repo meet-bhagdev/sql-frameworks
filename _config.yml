@@ -16,7 +16,7 @@ steps:
   3: Deploy your ML script with SQL Server
 
 menu:
-  R:
+  Django:
     logo: python.png
     pages:
       Predict ski rentals: R/rentalprediction
@@ -28,18 +28,18 @@ menu:
       Predict ski rentals: R/rentalprediction
       Perform customer clustering: R/customerclustering
 
-  Ruby:
+  Ruby on Rails:
     logo: python.png
     pages:
       Predict ski rentals: R/rentalprediction
       Perform customer clustering: R/customerclustering
 
-  Python:
+  Laravel:
     logo: python.png
     pages:
       Predict ski rentals: python/rentalprediction
       
-  Django:
+  Spring MVC:
     logo: python.png
     pages:
       Predict ski rentals: python/rentalprediction
