@@ -28,12 +28,15 @@ menu:
       Predict ski rentals: R/rentalprediction
       Perform customer clustering: R/customerclustering
 
-
   Python:
     logo: python.png
     pages:
       Predict ski rentals: python/rentalprediction
-      
+ 
+   Python:
+    logo: python.png
+    pages:
+      Predict ski rentals: python/rentalprediction
   
 resources:
  sqlserver-R:
