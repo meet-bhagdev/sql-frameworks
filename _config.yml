@@ -15,7 +15,14 @@ steps:
   2: Create your ML script using $$
   3: Deploy your ML script with SQL Server
 
+
 menu:
+  R:
+    logo: r-logo.png
+    pages:
+      Predict ski rentals: R/rentalprediction
+      Perform customer clustering: R/customerclustering
+      
   Django:
     logo: python.png
     pages:
