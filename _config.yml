@@ -38,6 +38,11 @@ menu:
     logo: python.png
     pages:
       Predict ski rentals: python/rentalprediction
+      
+  Django:
+    logo: python.png
+    pages:
+      Predict ski rentals: python/rentalprediction
   
 resources:
  sqlserver-R:
