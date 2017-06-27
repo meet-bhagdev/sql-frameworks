@@ -22,7 +22,7 @@ menu:
       Predict ski rentals: R/rentalprediction
       Perform customer clustering: R/customerclustering
       
-  R:
+  ASP.Net:
     logo: python.png
     pages:
       Predict ski rentals: R/rentalprediction
