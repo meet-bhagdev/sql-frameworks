@@ -24,21 +24,21 @@ menu:
       Windows: R/customerclustering
       
   ASP.Net:
-    logo: python.png
+    logo: aspnet.png
     pages:
       macOS: R/rentalprediction
       Ubuntu: R/customerclustering
       Windows: R/customerclustering
 
   Ruby on Rails:
-    logo: python.png
+    logo: rails.png
     pages:
       macOS: R/rentalprediction
       Ubuntu: R/customerclustering
       Windows: R/customerclustering
 
   Laravel:
-    logo: python.png
+    logo: laravel.png
     pages:
       macOS: R/rentalprediction
       Ubuntu: R/customerclustering
