@@ -19,8 +19,8 @@ menu:
   Django:
     logo: python.png
     pages:
-      Predict ski rentals: R/rentalprediction
-      Perform customer clustering: R/customerclustering
+      macOS: R/rentalprediction
+      Ubuntu: R/customerclustering
       
   ASP.Net:
     logo: python.png
