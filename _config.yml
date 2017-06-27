@@ -17,7 +17,7 @@ steps:
 
 menu:
   Django:
-    logo: python.png
+    logo: django.png
     pages:
       macOS: R/rentalprediction
       Ubuntu: R/customerclustering
