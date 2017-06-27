@@ -21,6 +21,12 @@ menu:
     pages:
       Predict ski rentals: R/rentalprediction
       Perform customer clustering: R/customerclustering
+      
+  R:
+    logo: python.png
+    pages:
+      Predict ski rentals: R/rentalprediction
+      Perform customer clustering: R/customerclustering
 
   Ruby:
     logo: python.png
