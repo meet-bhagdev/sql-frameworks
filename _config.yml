@@ -17,22 +17,17 @@ steps:
 
 menu:
   R:
-    logo: r-logo.png
+    logo: python.png
     pages:
       Predict ski rentals: R/rentalprediction
       Perform customer clustering: R/customerclustering
 
   Ruby:
-    logo: r-logo.png
+    logo: python.png
     pages:
       Predict ski rentals: R/rentalprediction
       Perform customer clustering: R/customerclustering
 
-  Python:
-    logo: python.png
-    pages:
-      Predict ski rentals: python/rentalprediction
-  
   Python:
     logo: python.png
     pages:
