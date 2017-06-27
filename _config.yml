@@ -16,18 +16,60 @@ steps:
   3: Deploy your ML script with SQL Server
 
 menu:
-  R:
-    logo: r-logo.png
-    pages:
-      Predict ski rentals: R/rentalprediction
-      Perform customer clustering: R/customerclustering
-
-  Python:
+  Django:
     logo: python.png
     pages:
-      Predict ski rentals: python/rentalprediction
+      macOS: R/rentalprediction
+      Ubuntu: R/customerclustering
+      RedHat: R/customerclustering
+      SLES: R/customerclustering
+      Windows: R/customerclustering
       
-  
+  Laravel:
+    logo: python.png
+    pages:
+      macOS: R/rentalprediction
+      Ubuntu: R/customerclustering
+      RedHat: R/customerclustering
+      SLES: R/customerclustering
+      Windows: R/customerclustering
+      
+   Ruby on Rails:
+    logo: python.png
+    pages:
+      macOS: R/rentalprediction
+      Ubuntu: R/customerclustering
+      RedHat: R/customerclustering
+      SLES: R/customerclustering
+      Windows: R/customerclustering
+
+  ASP.Net:
+    logo: python.png
+    pages:
+      macOS: R/rentalprediction
+      Ubuntu: R/customerclustering
+      RedHat: R/customerclustering
+      SLES: R/customerclustering
+      Windows: R/customerclustering
+      
+  Spring MVC:
+    logo: python.png
+    pages:
+      macOS: R/rentalprediction
+      Ubuntu: R/customerclustering
+      RedHat: R/customerclustering
+      SLES: R/customerclustering
+      Windows: R/customerclustering
+
+  Something else:
+    logo: python.png
+    pages:
+      macOS: R/rentalprediction
+      Ubuntu: R/customerclustering
+      RedHat: R/customerclustering
+      SLES: R/customerclustering
+      Windows: R/customerclustering       
+ 
 resources:
  sqlserver-R:
   pre: Check out what's new with
