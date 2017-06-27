@@ -45,7 +45,7 @@ menu:
       Windows: R/customerclustering
       
   Spring MVC:
-    logo: python.png
+    logo: springmvc.png
     pages:
       macOS: R/rentalprediction
       Ubuntu: R/customerclustering
